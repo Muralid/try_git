@@ -1,0 +1,77 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 9.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       157,          7]
+NotebookDataLength[      1718,         67]
+NotebookOptionsPosition[      1404,         51]
+NotebookOutlinePosition[      1749,         66]
+CellTagsIndexPosition[      1706,         63]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ RowBox[{"Button", "[", 
+  RowBox[{
+   RowBox[{"Style", "[", 
+    RowBox[{"\"\<Ok\>\"", ",", "Bold", ",", "20"}], "]"}], ",", "\"\<\>\"", 
+   ",", 
+   RowBox[{"ImageSize", "\[Rule]", 
+    RowBox[{"{", 
+     RowBox[{"180", ",", "60"}], "}"}]}], ",", 
+   RowBox[{"Alignment", "\[Rule]", "Center"}]}], "]"}]], "Input",
+ CellChangeTimes->{{3.5638538279952993`*^9, 3.56385388360748*^9}, {
+  3.563853947905158*^9, 3.563853956347641*^9}}],
+
+Cell[BoxData[
+ ButtonBox[
+  StyleBox["\<\"Ok\"\>",
+   StripOnInput->False,
+   FontSize->20,
+   FontWeight->Bold],
+  Alignment->Center,
+  Appearance->Automatic,
+  ButtonFunction:>"",
+  Evaluator->Automatic,
+  ImageSize->{180, 60},
+  Method->"Preemptive"]], "Output",
+ CellChangeTimes->{{3.5638538630843067`*^9, 3.563853884226516*^9}, 
+   3.5638539572906947`*^9}]
+}, Open  ]]
+},
+WindowSize->{707, 513},
+WindowMargins->{{24, Automatic}, {Automatic, 30}},
+FrontEndVersion->"9.0 for Microsoft Windows (64-bit) (November 20, 2012)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[579, 22, 445, 11, 31, "Input"],
+Cell[1027, 35, 361, 13, 77, "Output"]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
+
